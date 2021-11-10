@@ -1,15 +1,29 @@
 body {
-  background-color: grey;
+  background-color: #797979;
+  font-family: 'Share Tech', sans-serif;
 }
 
 img {
   border-radius: 8px;
-  width: 300px;
-  position: relative;
-  bottom: 800px;
+  width: 310px;
+
+}
+
+a {
+  text-decoration: none;
 }
 
 iframe {
   position: relative;
+  left: 350px;
+  bottom: 630px;
+  border-radius: 8px;
+}
 
+.bio {
+  width: 310px;
+  position: relative;
+  background-color: #969696;
+  border-radius: 8px;
+  /* bottom: 500px; */
 }
