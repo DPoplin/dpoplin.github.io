@@ -9,21 +9,28 @@ img {
 
 }
 
-a {
-  text-decoration: none;
+iframe {
+  position: absolute;
+  top: 10px;
+  left: 350px;
+  border-radius: 8px;
+  margin-bottom: 20px;
 }
 
-iframe {
-  position: relative;
-  left: 350px;
-  bottom: 630px;
-  border-radius: 8px;
+a {
+  margin: 20px 40px;
 }
 
 .bio {
   width: 310px;
-  position: relative;
+  position: absolute;
+  top: 10px;
   background-color: #969696;
   border-radius: 8px;
   /* bottom: 500px; */
+}
+
+.socials {
+  text-decoration: none;
+  text-align: center;
 }
