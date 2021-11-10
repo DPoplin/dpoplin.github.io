@@ -19,6 +19,7 @@ iframe {
 
 a {
   margin: 20px 40px;
+  text-decoration: none;
 }
 
 .bio {
@@ -31,7 +32,14 @@ a {
   /* bottom: 500px; */
 }
 
+.intro-paragraph {
+  margin: 15px;
+}
+
+.closing-paragraph {
+  margin: 15px;
+}
+
 .socials {
-  text-decoration: none;
   text-align: center;
 }
