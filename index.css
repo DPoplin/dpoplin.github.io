@@ -14,7 +14,7 @@ iframe {
   top: 10px;
   left: 350px;
   border-radius: 8px;
-  margin-bottom: 20px;
+  margin: 10px 20px 20px;
 }
 
 a {
@@ -24,7 +24,8 @@ a {
 .bio {
   width: 310px;
   position: absolute;
-  top: 10px;
+  /* top: 10px; */
+  margin: 10px 20px;
   background-color: #969696;
   border-radius: 8px;
   /* bottom: 500px; */
